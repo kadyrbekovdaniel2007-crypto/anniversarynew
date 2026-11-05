@@ -9,7 +9,7 @@
    2) поставьте USE_FILE = true
    ========================================================= */
 (function () {
-  const USE_FILE = false;
+  const USE_FILE = true;
   const FILE_SRC = 'assets/music/romantic.mp3';
   const VOLUME = 0.55;
 
